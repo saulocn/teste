@@ -1,6 +1,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
   <head>
+    <link rel="stylesheet" href="estilo.css" /> 
   </head>
   <body>
     <h1>Projeto!</h1>
